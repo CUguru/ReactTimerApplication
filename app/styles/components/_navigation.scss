@@ -1,0 +1,15 @@
+.top-bar,
+.top-bar ul {
+  background-color: $nav-background;
+}
+a {
+  text-decoration: $no-decoration;
+}
+li {
+  list-style: $no-style;
+}
+.top-bar {
+  .menu-text {
+    color: $nav-text-color;
+  }
+}
